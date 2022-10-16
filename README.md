@@ -7,3 +7,5 @@ Uses data from: https://github.com/bovle/poker_dev_env
 
 
 Based on earlier work (Python): https://github.com/bovle/fixed_limit_poker
+
+Based on even earlier work (Javascript): https://github.com/bovle/PokerWars 
